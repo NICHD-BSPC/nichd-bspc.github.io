@@ -8,17 +8,17 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
 - [Lee 2026](https://github.com/NICHD-BSPC/lee-2026): Code to reproduce the
   results *Genome-wide crossover analysis in the holocentric pantry
   moth reveals strong crossover assurance and interference during
-  spermatogenesis*, https://doi.org/10.1101/gr.281913.126
+  spermatogenesis*, [https://doi.org/10.1101/gr.281913.126]
 
 - [Aksenova 2025](https://github.com/NICHD-BSPC/aksenova-2025): Code to
   reproduce the results from *TREX2 component PCID2 scaffolds alternative
   SAC3-based subcomplexes with distinct RNA processing and export function*,
-  https://doi.org/10.64898/2026.04.13.716336
+  [https://doi.org/10.64898/2026.04.13.716336]
 
 - [Thongdee 2025](https://github.com/NICHD-BSPC/thongdee-2025): Code to
   reproduce the results from *Modulation of protein activity by small RNA base
   pairing internal to coding sequences*,
-  https://doi.org/10.1016/j.molcel.2025.03.014.
+  [https://doi.org/10.1016/j.molcel.2025.03.014].
 
 ## Repositories
 
@@ -49,3 +49,21 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
 
 - [BSPC training pages](https://github.com/NICHD-BSPC/training): curated links
   to bioinformatics training resources.
+
+## Other
+
+- [lcdb-wf](https://github.com/lcdb/lcdb-wf), our set of workflows and
+  downstream analysis code for RNA-seq-like, ChIP-seq-like, and variant
+  calling.
+
+- [pybedtools](https://github.com/daler/pybedtools): wraps and extends BEDTools for use in Python.
+
+- [gffutils](https://github.com/daler/gffutils): GTF and GFF gene annotation file manipulation and interconversion.
+
+- [trackhub](https://github.com/daler/trackhub): Build UCSC Genome Browser track hubs with Python.
+
+- [bioconda-recipes](https://github.com/bioconda/bioconda-recipes): contributions to the Bioconda channel
+
+- [bioconda-utils](https://github.com/bioconda/bioconda-utils): development and maintenance of the underlying infrastructure for the Bioconda channel
+
+- [bioconda-docs](https://github.com/bioconda/bioconda-docs): documentation for the Bioconda channel
