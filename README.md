@@ -1,7 +1,8 @@
 
-*This page outlines the repositories under NICHD-BSPC GitHub org as well as
-other open-source repositories we maintain and/or contribute to. For BSPC in
-general, please see the [official NIH page for
+*This page outlines the repositories under the [NICHD-BSPC GitHub
+organization](https://github.com/NICHD-BSPC) as well as other open-source
+repositories we maintain and/or contribute to. For other information about
+BSPC, please see the [official NIH page for
 BSPC](https://bioinformatics.nichd.nih.gov/).*
 
 
