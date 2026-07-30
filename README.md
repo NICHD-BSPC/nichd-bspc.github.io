@@ -1,6 +1,8 @@
 
-
-See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
+*This page outlines the repositories under NICHD-BSPC GitHub org as well as
+other open-source repositories we maintain and/or contribute to. For BSPC in
+general, please see the [official NIH page for
+BSPC](https://bioinformatics.nichd.nih.gov/).*
 
 
 ## Workflows for published manuscripts
@@ -20,7 +22,17 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
   pairing internal to coding sequences*,
   [https://doi.org/10.1016/j.molcel.2025.03.014].
 
-## Repositories
+## Tools
+
+- [lcdb-wf](https://github.com/lcdb/lcdb-wf), our set of workflows and
+  downstream analysis code for RNA-seq-like, ChIP-seq-like, and variant
+  calling.
+
+- [pybedtools](https://github.com/daler/pybedtools): wraps and extends BEDTools for use in Python.
+
+- [gffutils](https://github.com/daler/gffutils): GTF and GFF gene annotation file manipulation and interconversion.
+
+- [trackhub](https://github.com/daler/trackhub): Build UCSC Genome Browser track hubs with Python.
 
 - [termseq-peaks](https://github.com/NICHD-BSPC/termseq-peaks): peak-calling for Term-seq data in bacterial genomes.
 
@@ -52,15 +64,7 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
 
 ## Other
 
-- [lcdb-wf](https://github.com/lcdb/lcdb-wf), our set of workflows and
-  downstream analysis code for RNA-seq-like, ChIP-seq-like, and variant
-  calling.
-
-- [pybedtools](https://github.com/daler/pybedtools): wraps and extends BEDTools for use in Python.
-
-- [gffutils](https://github.com/daler/gffutils): GTF and GFF gene annotation file manipulation and interconversion.
-
-- [trackhub](https://github.com/daler/trackhub): Build UCSC Genome Browser track hubs with Python.
+- [daler/dotfiles](https://github.com/daler/dotfiles): Batteries-included set of dotfiles used by BSPC and alumni
 
 - [bioconda-recipes](https://github.com/bioconda/bioconda-recipes): contributions to the Bioconda channel
 
@@ -68,4 +72,3 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
 
 - [bioconda-docs](https://github.com/bioconda/bioconda-docs): documentation for the Bioconda channel
 
-- [daler/dotfiles](https://github.com/daler/dotfiles): Batteries-included set of dotfiles used by BSPC and alumni
