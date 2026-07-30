@@ -67,3 +67,5 @@ See the [official NIH page for BSPC](https://bioinformatics.nichd.nih.gov/).
 - [bioconda-utils](https://github.com/bioconda/bioconda-utils): development and maintenance of the underlying infrastructure for the Bioconda channel
 
 - [bioconda-docs](https://github.com/bioconda/bioconda-docs): documentation for the Bioconda channel
+
+- [daler/dotfiles](https://github.com/daler/dotfiles): Batteries-included set of dotfiles used by BSPC and alumni
