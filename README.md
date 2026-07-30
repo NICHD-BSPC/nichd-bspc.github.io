@@ -11,22 +11,22 @@ BSPC](https://bioinformatics.nichd.nih.gov/).*
 - [Lee 2026](https://github.com/NICHD-BSPC/lee-2026): Code to reproduce the
   results *Genome-wide crossover analysis in the holocentric pantry
   moth reveals strong crossover assurance and interference during
-  spermatogenesis*, [https://doi.org/10.1101/gr.281913.126]
+  spermatogenesis [https://doi.org/10.1101/gr.281913.126](https://doi.org/10.1101/gr.281913.126)*
 
 - [Aksenova 2025](https://github.com/NICHD-BSPC/aksenova-2025): Code to
   reproduce the results from *TREX2 component PCID2 scaffolds alternative
-  SAC3-based subcomplexes with distinct RNA processing and export function*,
-  [https://doi.org/10.64898/2026.04.13.716336]
+  SAC3-based subcomplexes with distinct RNA processing and export function,
+  [https://doi.org/10.64898/2026.04.13.716336](https://doi.org/10.64898/2026.04.13.716336)*
 
 - [Thongdee 2025](https://github.com/NICHD-BSPC/thongdee-2025): Code to
   reproduce the results from *Modulation of protein activity by small RNA base
-  pairing internal to coding sequences*,
-  [https://doi.org/10.1016/j.molcel.2025.03.014].
+  pairing internal to coding sequences,
+  [https://doi.org/10.1016/j.molcel.2025.03.014](https://doi.org/10.1016/j.molcel.2025.03.014)*
 
 ## Tools
 
-- [lcdb-wf](https://github.com/lcdb/lcdb-wf), our set of workflows and
-  downstream analysis code for RNA-seq-like, ChIP-seq-like, and variant
+- [lcdb-wf](https://github.com/lcdb/lcdb-wf): our set of Snakemake workflows
+  and downstream analysis code for RNA-seq-like, ChIP-seq-like, and variant
   calling.
 
 - [pybedtools](https://github.com/daler/pybedtools): wraps and extends BEDTools for use in Python.
